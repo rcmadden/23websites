@@ -1,7 +1,7 @@
 window.onload = function() {
     const countdown = () => {
         const countdown = () => {
-            const countDate = new Date("March 23, 2023 00:00:00").getTime();
+            const countDate = new Date("March 20, 2023 00:00:00").getTime();
             const now = new Date().getTime();
             const gap = countDate - now;
         
